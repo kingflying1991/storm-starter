@@ -84,6 +84,8 @@ public class ExclamationTopology {
       cluster.shutdown();
     }
     
+    System.out.print("goodbye:)\n");
+    
     
   }
 }
